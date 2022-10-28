@@ -7,8 +7,7 @@ This repository contains all the codes performed in MP408 Lab
 |P2           |Write an octave program to simulate simple pendulum.|
 |P3           |Write an octave program to simulate Projectile motion.|
 |P4           |Write an Octave program to simulate motion of a particle in a plane using a cartesian system.|
-|P5           |Write an Octave program to simulate motion of a particle 
-in a plane using a polar coordinate system.|
+|P5           |Write an Octave program to simulate motion of a particle in a plane using a polar coordinate system.|
 |P6           |Write an Octave program to simulate planetary motion.|
 |P7           |Write an Octave program to simulate Motion of a Particle in an EM Field.|
 |P8           |Write an Octave program to simulate Motion of a Non-Relativistic Particle in an EM Field.|
