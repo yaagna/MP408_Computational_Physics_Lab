@@ -1,4 +1,6 @@
 # MP408_Computational_Physics_Lab
+[![DOI](https://zenodo.org/badge/494023739.svg)](https://zenodo.org/badge/latestdoi/494023739)
+
 This repository contains all the codes performed in MP408 Lab
 
 |Pragram Name |Aim of the Program|
